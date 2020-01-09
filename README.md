@@ -7,4 +7,4 @@ There are several versions of the program. The numbering following the program t
 the previous two words to generate a new list of words to choose from. The versions that don't use integer numbering follow a pattern
 based on the numbering written for example 2.5 alternates between using the previous two words and the previous three words to generate a new word.
 
-Based on code Impractical Python projects : playful programming activities to make you smarter / Lee Vaughan chapter 9.
+Based on code presented in Impractical Python projects : playful programming activities to make you smarter / Lee Vaughan chapter 9.
